@@ -26,6 +26,7 @@ import edu.ncsu.csc216.pack_scheduler.user.schedule.Schedule;
  * course catalog and student directory.
  * @author Christian Goga
  * @author Ken Ogura
+ * @author Tyler Davis
  */
 public class RegistrationManager {
 	

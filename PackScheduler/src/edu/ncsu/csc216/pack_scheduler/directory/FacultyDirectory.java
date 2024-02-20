@@ -17,7 +17,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedList;
 /**
  * Class for maintaining directory of Faculty Users
  * @author Chris Brown
- * @author Tyler
+ * @author Tyler Davis
  * @author Ken Ogura
  */
 public class FacultyDirectory {

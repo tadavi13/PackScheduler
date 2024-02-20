@@ -20,6 +20,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedList;
 
 /**
  * Test class for FacultyRecordIO
+ * @author Tyler Davis
  */
 public class FacultyRecordIOTest {
 	/** File path that does not exist*/
